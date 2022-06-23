@@ -48,7 +48,6 @@ header {
   display: none;
 }
 .dropdown li:hover {
-  display: block;
   background-color: #54a4f1;
 }
 .product:hover > .dropdown > li {
