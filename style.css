@@ -6,7 +6,7 @@
 header {
   width: 100%;
   height: 50px;
-  background-color: rgb(6, 40, 103);
+  background-color: #17336c;
   color: white;
   padding-left: 10px;
   border-bottom: 2px solid #54a4f1;
@@ -78,7 +78,7 @@ a {
 .two {
   width: 100%;
   padding-top: 30px;
-  background-color: #54a4f1;
+  background-color: #54a3f0;
 }
 h1 {
   text-align: center;
@@ -87,7 +87,7 @@ h1 {
   margin-bottom: 15px;
 }
 .three {
-  background-color: rgb(6, 40, 103);
+  background-color: #224a92;
   padding-bottom: 40px;
 }
 .four > img {
