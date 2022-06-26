@@ -11,7 +11,6 @@
 - Do not use positioning for layout purposes.
 - Use only the techniques covered so far.
 
-
 ## Layout
 
 ![mockup](designs/mockup1.png)
@@ -19,4 +18,3 @@
 ## Dropdown
 
 ![dropdown](designs/mockup2.png)
-
